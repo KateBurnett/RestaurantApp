@@ -5,6 +5,6 @@
 <br>
 <b>How to Run:</b> Click "Add PacMan" too create a new PacMan at any time. Click "Start Game" to start the PacMen moving around the defined area.<br>
 <br>
-<b>Future improvements:</b> Future iterations could add randomized color to each PacMen.<br>
+<b>Future improvements:</b> Future iterations will code the PacMen to "turn around" when they hit an x boarder and add a chomping motion to the PacMen.<br>
 <br>
 <b>License information:</b> MIT License
